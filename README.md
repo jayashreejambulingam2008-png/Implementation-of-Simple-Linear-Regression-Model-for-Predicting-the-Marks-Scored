@@ -96,7 +96,8 @@ print(f"Predicted Marks for studying {hours} hours = {predicted_marks[0]:.2f}")
 ## Output:
 <img width="937" height="524" alt="image" src="https://github.com/user-attachments/assets/01864f03-5272-4b69-8fb2-49de36b53da6" />
 
-<img width="890" height="712" alt="image" src="https://github.com/user-attachments/assets/3d6512b3-f74c-43ec-bbfe-916179d3dd77" />
+<img width="1418" height="716" alt="image" src="https://github.com/user-attachments/assets/192fef20-2eea-4f07-99b6-197a3cdcdb50" />
+
 
 
 
